@@ -1,0 +1,25 @@
+{
+  "name": "ones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeju/ones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seeju/ones/issues"
+  },
+  "homepage": "https://github.com/seeju/ones#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
